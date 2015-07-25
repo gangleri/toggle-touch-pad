@@ -1,4 +1,5 @@
 #!/bin/zsh
+
 state=$(synclient -l | grep --color=never -oP "TouchpadOff.+\K(\d)")
 state=$((1-state))
 synclient TouchpadOff=$state

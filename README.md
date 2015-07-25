@@ -1,12 +1,12 @@
 # toggle-touchpad
-Originallyl written as a vim plugin I've included this as a shell script so that I
-use it outside of vim.
+Originallyl written as a vim plugin I've included this as a shell script so that 
+I can use it outside of vim.
 
 ## Install
 Add it to a director on your path. I use the following:
 
 ```sh
-% curl https://raw.githubusercontent.com/gangleri/toggle-touchpad/master/install.sh | zsh
+% curl https://raw.githubusercontent.com/gangleri/toggle-touchpad/master/install.sh | sudo zsh
 ```
 
 ## Usage
@@ -17,5 +17,5 @@ Add it to a director on your path. I use the following:
 % toggle-touchpad
 # TouchPad is now on
 ```
-I used this on Arch Linux running in zsh on a Lenovo x250. 
+I use this on Arch Linux running in zsh on a Lenovo x250. 
 
