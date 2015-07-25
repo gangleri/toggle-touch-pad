@@ -17,5 +17,8 @@ Add it to a director on your path. I use the following:
 % toggle-touchpad
 # TouchPad is now on
 ```
-I use this on Arch Linux running in zsh on a Lenovo x250. 
+
+A shortcut is setup as **ttp**.
+
+I use this on Arch Linux running zsh on a Lenovo x250. 
 
