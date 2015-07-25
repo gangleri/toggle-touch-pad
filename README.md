@@ -6,7 +6,7 @@ use it outside of vim.
 Add it to a director on your path. I use the following:
 
 ```sh
-% curl https://raw.githubuserconten/gangleri/toggle-touchpad/install.sh | zsh
+% curl https://raw.githubusercontent.com/gangleri/toggle-touch-pad/master/install.sh | zsh
 ```
 
 ## Usage
