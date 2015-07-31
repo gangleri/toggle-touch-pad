@@ -22,3 +22,4 @@ A shortcut is setup as **ttp**.
 
 I use this on Arch Linux running zsh on a Lenovo x250. 
 
+[@lanazee](http://twitter.com/Lana Zwart) - Using this on Ubuntu
