@@ -3,10 +3,10 @@ Originallyl written as a vim plugin I've included this as a shell script so that
 I can use it outside of vim.
 
 ## Install
-Add it to a director on your path. I use the following:
+Add it to a directory on your path. I use the following:
 
 ```sh
-% curl https://raw.githubusercontent.com/gangleri/toggle-touchpad/master/install.sh | sudo zsh
+curl https://raw.githubusercontent.com/gangleri/toggle-touchpad/master/install.sh | sudo zsh
 ```
 
 ## Usage
